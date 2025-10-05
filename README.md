@@ -1,7 +1,5 @@
 # 🌿 Root2Rise: AI-Powered Decision Support System for FRA Implementation
 
-**(Repository Name: mywebsite)**
-
 [![Status](https://img.shields.io/badge/Project%20Status-Prototype%20Ready-2e7d32?style=for-the-badge)](https://www.sih.gov.in)
 [![Technology Stack](https://img.shields.io/badge/Tech%20Drivers-AI%20%7C%20WebGIS%20%7C%20DSS-004d40?style=for-the-badge)](https://www.sih.gov.in)
 [![Targeted Act](https://img.shields.io/badge/Targeted%20Act-FRA%202006%20Implementation-4caf50?style=for-the-badge)](https://www.sih.gov.in)
@@ -57,4 +55,4 @@ The DSS is the intelligence layer of Root2Rise. It automatically:
 | **Team Members** | Pulkit Arora, Riddhi, Nikhil, Sushant, Trisha |
 | **Problem Statement** | **Development of AI-powered FRA Atlas and WebGIS-based Decision Support System (DSS) for Integrated Monitoring of Forest Rights Act (FRA) Implementation.** (States to be concentrated: Madhya Pradesh, Tripura, Odisha, Telangana) |
 
-**Official SIH Portal (The only link):** [Smart India Hackathon](https://www.sih.gov.in)
+**Official SIH Portal :** [Smart India Hackathon](https://www.sih.gov.in)
